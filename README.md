@@ -4,6 +4,8 @@
 
 **F12020**
 
+**Checkout the HTML files, the screenshots attached below are from the same files, plus these graphs are interactive, play with it as much as you want**
+
 Welcome to the ultimate pit stop for data-driven F1 enthusiasts! This project dives deep into the telemetry data of Formula 1 races, capturing and visualizing essential metrics to enhance our understanding of the track dynamics. It’s like having your own telemetry engineer, minus the tire changes(for now)! In short, be your own Race Engineer
 
 >**<h2>FUTURE UPDATES SCOPE</h2>**
